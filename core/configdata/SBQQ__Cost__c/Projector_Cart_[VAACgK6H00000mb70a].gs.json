@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Projector Cart",
+    "GearsetExternalId__c": "VAACgK6H00000mb70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "120.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "NAAuSV2B00000mbt10"
+      }
+    }
+  ]
+}

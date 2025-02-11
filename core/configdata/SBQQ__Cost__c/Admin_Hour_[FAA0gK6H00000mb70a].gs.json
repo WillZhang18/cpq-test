@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Admin Hour",
+    "GearsetExternalId__c": "FAA0gK6H00000mb70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "60.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "NAAkSV2B00000mbt10"
+      }
+    }
+  ]
+}

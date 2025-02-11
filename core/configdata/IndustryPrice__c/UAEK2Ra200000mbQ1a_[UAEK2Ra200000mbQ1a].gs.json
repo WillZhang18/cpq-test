@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "UAEK2Ra200000mbQ1a",
+    "GearsetExternalId__c": "UAEK2Ra200000mbQ1a",
+    "IPIndustry__c": "Education",
+    "IPPrice__c": "590.0",
+    "IPSLA__c": "Bronze"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "NAAjRV2B00000mbt10"
+      }
+    }
+  ]
+}

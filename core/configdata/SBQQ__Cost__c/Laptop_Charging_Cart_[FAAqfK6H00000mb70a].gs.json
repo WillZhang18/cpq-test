@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Laptop Charging Cart",
+    "GearsetExternalId__c": "FAAqfK6H00000mb70a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "950.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "NAAbSV2B00000mbt10"
+      }
+    }
+  ]
+}

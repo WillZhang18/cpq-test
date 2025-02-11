@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "UAEG2Ra200000mbQ1a",
+    "GearsetExternalId__c": "UAEG2Ra200000mbQ1a",
+    "IPIndustry__c": "Healthcare",
+    "IPPrice__c": "595.0",
+    "IPSLA__c": "Bronze"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "NAAjRV2B00000mbt10"
+      }
+    }
+  ]
+}
