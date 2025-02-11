@@ -904,7 +904,7 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>SBQQ__DummyStuff__c</field>
+            <field>DummyStuff__c</field>
             <table>SBQQ__Quote__c</table>
         </columns>
         <columns>
