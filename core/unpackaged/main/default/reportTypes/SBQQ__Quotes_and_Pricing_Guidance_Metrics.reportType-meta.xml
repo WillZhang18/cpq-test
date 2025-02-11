@@ -904,6 +904,11 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
+            <field>SBQQ__DummyStuff__c</field>
+            <table>SBQQ__Quote__c</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
             <field>SBQQ__EmailTemplateId__c</field>
             <table>SBQQ__Quote__c</table>
         </columns>
