@@ -19,7 +19,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>SBQQ__Quote__c.DummyStuff__c</field>
         <readable>true</readable>
     </fieldPermissions>
