@@ -32,4 +32,8 @@
         <object>SBQQ__PriceSchedule__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <classAccesses>
+        <apexClass>SBQQ__OrderCreateController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
 </PermissionSet>
