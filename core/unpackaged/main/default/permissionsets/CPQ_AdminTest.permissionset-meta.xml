@@ -3,6 +3,10 @@
     <description>Give customer users access to data protected through the setting Perform Enhanced Data Access Checks. Don’t clone this permission set.</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Salesforce CPQ Edit Test Access</label>
+    <classAccesses>
+        <apexClass>SBQQ__OrderCreateController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <fieldPermissions>
         <editable>true</editable>
         <field>OrderItem.SBQQ__SegmentKey__c</field>
@@ -27,8 +31,4 @@
         <object>SBQQ__PriceSchedule__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
-    <classAccesses>
-        <apexClass>SBQQ__OrderCreateController</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
 </PermissionSet>
